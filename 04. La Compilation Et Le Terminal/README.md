@@ -2,6 +2,8 @@
 
 Dans cette vidéo vous verrez coment utiliser un terminal et compiler un code source C++.
 
+[Vidéo YouTube](https://youtu.be/haR28ETdV10)
+
 
 ## Fichiers
 
