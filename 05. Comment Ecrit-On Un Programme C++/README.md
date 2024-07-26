@@ -2,6 +2,7 @@
 
 Dans cette vidéo vous verrez coment est organisé un programme C++
 
+[Vidéo YouTube](https://youtu.be/g0LOS8AFZ3E)
 
 ## Fichiers
 
