@@ -7,7 +7,7 @@ Dans cette vidéo vous verrez ce que sont les opérateurs
 
 ## Fichiers
 
-Le fichier code.cpp contient le code source.
+Le fichier operateurs_1.cpp contient le code source.
 
 Le fichier compiler.sh est un script pour compiler code.cpp.
 
