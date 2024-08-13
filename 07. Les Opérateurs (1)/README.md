@@ -9,15 +9,12 @@ Dans cette vidéo vous verrez ce que sont les opérateurs
 
 Le fichier operateurs_1.cpp contient le code source.
 
-Le fichier compiler.sh est un script pour compiler code.cpp.
+Le fichier compiler.sh est un script pour compiler le code.
 
 
 Pour compiler le code :
 `./compiler.sh`
 
-
-
-Ce ne sont que des avertissements sur le fait que les variables déclarées ne sont pas utilisées. Vous pouvez les ignorer.
 
 Pour executer le programme compilé :
 Sur Windows :

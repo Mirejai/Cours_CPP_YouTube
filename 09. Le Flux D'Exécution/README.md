@@ -1,4 +1,4 @@
-# 07. Le Flux D'Exécution
+# 09. Le Flux D'Exécution
 
 Dans cette vidéo vous verrez comment controler le flux d'exécution
 
@@ -9,15 +9,13 @@ Dans cette vidéo vous verrez comment controler le flux d'exécution
 
 Le fichier conditions.cpp contient le code source.
 
-Le fichier compiler.sh est un script pour compiler code.cpp.
+Le fichier compiler.sh est un script pour compiler le code.
 
 
 Pour compiler le code :
 `./compiler.sh`
 
 
-
-Ce ne sont que des avertissements sur le fait que les variables déclarées ne sont pas utilisées. Vous pouvez les ignorer.
 
 Pour executer le programme compilé :
 Sur Windows :
