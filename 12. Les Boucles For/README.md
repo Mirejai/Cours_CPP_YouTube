@@ -2,6 +2,7 @@
 
 Dans cette vidéo vous verrez comment utiliser des boucles for
 
+[Vidéo Youtube](https://youtu.be/5lLeS1koleA)
 
 ## Fichiers
 
